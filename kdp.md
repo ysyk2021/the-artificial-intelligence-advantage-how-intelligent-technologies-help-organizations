@@ -8,7 +8,7 @@ In this book, "The Artificial Intelligence Advantage: How Intelligent Technologi
 
 Whether you are a business leader, entrepreneur, or IT professional, this book will provide valuable insights into the world of AI and how it can be used to gain a competitive edge in today's fast-paced business environment. Let's dive in and discover the many advantages of intelligent technologies!
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
