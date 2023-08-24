@@ -1,5 +1,3 @@
-Educating Employees about AI
-=====================================================================
 
 For organizations to fully leverage the power of artificial intelligence (AI), it is imperative that their employees are educated and informed about the technology. From data scientists and engineers to business leaders and customer service representatives, every employee can contribute to the success of an AI initiative.
 

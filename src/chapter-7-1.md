@@ -1,5 +1,3 @@
-Evaluating ROI and Other Metrics
-============================================================================================
 
 Measuring the impact of artificial intelligence (AI) on your organization is essential to understanding how effectively you are leveraging the technology. In this chapter, we will explore various metrics that can be used to evaluate the ROI and overall impact of AI on your organization.
 

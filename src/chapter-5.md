@@ -1,5 +1,3 @@
-Chapter 5: Building an AI-Ready Culture
-=======================================
 
 To fully leverage the benefits of artificial intelligence (AI), organizations must create a culture that is both prepared and willing to adopt and implement intelligent technologies. In this chapter, we will explore the essential components of an AI-ready culture.
 

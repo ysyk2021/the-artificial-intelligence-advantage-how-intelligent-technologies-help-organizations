@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has a long and fascinating history, dating back to the early days of computing. In this chapter, we will explore the key milestones in the development of AI, from the first computers to the present day.
 

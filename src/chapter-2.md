@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To understand the potential of artificial intelligence (AI) for organizations, it is important to have a basic understanding of its history, types, and machine learning techniques. In this chapter, we will explore these fundamentals of AI.
 

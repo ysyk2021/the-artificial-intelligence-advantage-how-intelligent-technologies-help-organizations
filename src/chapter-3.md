@@ -1,5 +1,3 @@
-Chapter 3: Benefits of AI for Organizations
-===========================================
 
 Artificial intelligence (AI) has the potential to transform organizations and give them a competitive edge. In this chapter, we will explore the benefits that AI can bring to organizations.
 

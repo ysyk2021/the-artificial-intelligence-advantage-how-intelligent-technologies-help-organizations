@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) has become a critical component of modern business operations, helping organizations gain a competitive edge by providing new insights and automating routine tasks. One of the key branches of AI is machine learning, which involves using algorithms and statistical models to enable computers to learn from data and improve their performance over time.
 

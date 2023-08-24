@@ -1,5 +1,3 @@
-Adjusting Strategies as Needed
-==========================================================================================
 
 Implementing artificial intelligence (AI) in an organization requires careful planning, execution, and evaluation. Measuring the impact of AI on your organization is an essential step in assessing the success of your implementation. In this chapter, we will explore strategies for measuring the impact of AI and adjusting strategies as needed.
 

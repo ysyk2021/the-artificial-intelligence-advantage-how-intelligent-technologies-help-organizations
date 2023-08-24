@@ -1,5 +1,3 @@
-Chapter 7: Measuring the Impact of AI on Your Organization
-==========================================================
 
 Measuring the impact of artificial intelligence (AI) on an organization is essential to understand its effectiveness and ROI. In this chapter, we will explore the key elements of measuring the impact of AI.
 
