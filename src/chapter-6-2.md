@@ -1,5 +1,4 @@
-Chapter 6: Managing Data and Ensuring Ethical and Legal Compliance
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical aspects of managing data and ensuring ethical and legal compliance when leveraging artificial intelligence (AI) technologies. As organizations harness the power of intelligent technologies, they must navigate the challenges surrounding data handling, privacy, and adherence to ethical and legal standards. Let's delve into the importance of managing data and ensuring ethical and legal compliance.
 

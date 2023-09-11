@@ -1,5 +1,4 @@
-Chapter 6: Enhanced Customer Experience
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how the adoption of artificial intelligence (AI) and intelligent technologies can result in enhanced customer experiences for organizations. AI has the potential to revolutionize the way organizations interact with their customers, personalize offerings, and provide seamless and efficient experiences. We will delve into the ways in which AI can be leveraged to enhance customer experience and drive customer satisfaction. Let's explore the key aspects of enhanced customer experience through AI adoption.
 

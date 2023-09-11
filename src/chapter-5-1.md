@@ -1,5 +1,4 @@
-Chapter 5: Educating Employees about AI
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of educating employees about artificial intelligence (AI) to help organizations gain a competitive edge. As AI technologies become more prevalent in various industries, it is essential for employees to understand the fundamentals, benefits, and implications of AI. Educating employees about AI empowers them to embrace new ways of working, collaborate effectively with AI systems, and leverage the potential of intelligent technologies. Let's delve into the strategies and considerations for educating employees about AI.
 

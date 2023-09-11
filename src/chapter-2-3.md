@@ -1,5 +1,4 @@
-Chapter 5: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various machine learning techniques that play a crucial role in leveraging artificial intelligence (AI) technologies to gain a competitive edge. Machine learning enables computers to learn from data and make predictions or take actions without being explicitly programmed. Understanding different machine learning techniques empowers organizations to harness the power of AI effectively. Let's delve into the world of machine learning techniques.
 

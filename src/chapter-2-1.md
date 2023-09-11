@@ -1,5 +1,4 @@
-Chapter 1: History of Artificial Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fascinating history of artificial intelligence (AI) leading up to its current state and its role in helping organizations gain a competitive edge. Understanding the evolution of AI provides valuable insights into the advancements, breakthroughs, and milestones that have shaped its development. Let's delve into the history of artificial intelligence.
 

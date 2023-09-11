@@ -1,5 +1,4 @@
-Chapter 2: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of artificial intelligence (AI) that organizations can leverage to gain a competitive edge. AI encompasses a wide range of technologies and approaches, each with its own characteristics and capabilities. Understanding the various types of AI enables organizations to identify the most suitable solutions for their specific needs. Let's delve into the different types of artificial intelligence.
 

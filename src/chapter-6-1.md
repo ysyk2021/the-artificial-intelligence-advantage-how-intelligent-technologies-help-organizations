@@ -1,5 +1,4 @@
-Chapter 3: Identifying Use Cases and Selecting Technology Solutions
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying use cases and selecting technology solutions when implementing artificial intelligence (AI) to gain a competitive edge. Understanding the specific areas where AI can provide value and selecting the right technology solutions are crucial steps in harnessing intelligent technologies effectively. Let's delve into the process of identifying use cases and selecting technology solutions.
 
